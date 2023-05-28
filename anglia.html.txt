@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML</title>
+</head>
+<p style="background-image: url('img_girl.jpg');">
+<body style="background-color: #FF9680;"></body>
+<div style="text-align:center;"><h1><BIG><span style='color:RED'>AUSTRIA</span><BIG><h1></div>
+<HR align="center" width="100%" size="10" color="red">
+<P ALIGN = CENTER><img src='file:///C:/Users/user/Desktop/school/tic/proiect%20site/1093811.jpg' alt='Zambeste' width='900' height='600'/><P>
+<h2><P ALIGN = CENTER><U>DESPRE AUSTRIA</U></P><h2>
+<h3><P ALIGN = CENTER>
+<br>
+<br>Odată ce pășești pe străzile Vienei, s-ar putea să simți că există acel „je ne sais quoi” care îți aduce aminte de atmosfera din București. Capitala Austriei se află la granița dintre „loc în care oamenii lucrează” și „oraș turistic”, faimos mai ales pentru Catedrala Sfântul Ștefan și Palatul Schönbrunn. Un lucru însă este cert: Viena are un farmec aparte, de care merită să te bucuri pe deplin.</br>
+<br>Admiră-i arhitectura, explorează-i muzeele și ia-i la pas zonele verzi.</br>
+<br>Ești gata?</br>
+<br><P ALIGN = LEFT><BIG><U>1. VIENA</U></BIG></P></br>
+</P></h3>
+<P ALIGN = CENTER><img src='file:///C:/Users/user/Desktop/school/tic/proiect%20site/.jpg' alt='Zambeste' width='900' height='600'/><P>
+<P ALIGN = CENTER>
+<br></br>
+<br></br>
+<br><br></br>
+<img src='file:///C:/Users/user/Desktop/school/tic/proiect%20site/.jpg' alt='Zambeste' width='900' height='600'/>
+</P>
+<h3><br><P ALIGN = LEFT><BIG><U>2. LINZ</U></BIG></P></br>
+</P></h3>
+<P ALIGN = CENTER><img src='file:///C:/Users/user/Desktop/school/tic/proiect%20site/.jpg' alt='Zambeste' width='900' height='600'/><P>
+<P ALIGN = CENTER>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+</P>
+<h3><br><P ALIGN = LEFT><BIG><U>3. INNSBRUCK</U></BIG></P></br>
+</P></h3>
+<P ALIGN = CENTER><img src='file:///C:/Users/user/Desktop/school/tic/proiect%20site/.jpg' alt='Zambeste' width='900' height='600'/><P>
+<P ALIGN = CENTER>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+</P>
+<h3><br><P ALIGN = LEFT><BIG><U>4. SALZBURG</U></BIG></P></br>
+</P></h3>
+<P ALIGN = CENTER><img src='file:///C:/Users/user/Desktop/school/tic/proiect%20site/.jpg' alt='Zambeste' width='600' height='600'/><P>
+<P ALIGN = CENTER>
+<br></br>
+<br></br>
+<br></br>
+</P>
+<h3><br><P ALIGN = LEFT><BIG><U>5. GRAZ</U></BIG></P></br>
+</P></h3>
+<P ALIGN = CENTER><img src='file:///C:/Users/user/Desktop/school/tic/proiect%20site/.jpg' alt='Zambeste' width='900' height='600'/><P>
+<P ALIGN = CENTER>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+</P>
+<br>
+<h3>V-ar putea interesa și:
+<a href='file:///D:/stefan.d/html/html%20proiect/html2.html' title='austria'>FRANTA ,</a>
+<a href='file:///D:/stefan.d/html/html%20proiect/html2.html' title='austria'>AUSTRIA ,</a>
+<a href='file:///D:/stefan.d/html/html%20proiect/html2.html' title='austria'>SUEDIA ,</a>
+<a href='file:///D:/stefan.d/html/html%20proiect/html2.html' title='austria'>SPANIA</a>
+</h3>
+</br>
+<style>
+body {
+ color:Red;
+}
+</style>
+</html>
